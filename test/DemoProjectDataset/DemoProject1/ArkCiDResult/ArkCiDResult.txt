@@ -1,0 +1,14 @@
+api: ohos.promptAction.promptAction.showToast, 对应: ohos.promptAction.promptAction.showToast, 引入版本: 9, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.animator.Animator.createAnimator, 对应: ohos.animator.Animator.createAnimator, 引入版本: 6, 废弃版本: 9, 删除版本: Infinity
+api: ohos.animator.AnimatorResult.finish, 对应: ohos.animator.AnimatorResult.finish, 引入版本: 6, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.animator.AnimatorResult.onrepeat, 对应: ohos.animator.AnimatorResult.onrepeat, 引入版本: 6, 废弃版本: 12, 删除版本: Infinity
+api: ohos.window.WindowStage.loadContent, 对应: ohos.window.WindowStage.loadContent, 引入版本: 9, 废弃版本: Infinity, 删除版本: Infinity
+api: console.info, 对应: console.console.info, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: console.info, 对应: console.console.info, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.promptAction.promptAction.showToast, 对应: ohos.promptAction.promptAction.showToast, 引入版本: 9, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.animator.Animator.createAnimator, 对应: ohos.animator.Animator.createAnimator, 引入版本: 6, 废弃版本: 9, 删除版本: Infinity
+api: ohos.animator.AnimatorResult.finish, 对应: ohos.animator.AnimatorResult.finish, 引入版本: 6, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.animator.AnimatorResult.onrepeat, 对应: ohos.animator.AnimatorResult.onrepeat, 引入版本: 6, 废弃版本: 12, 删除版本: Infinity
+api: ohos.window.WindowStage.loadContent, 对应: ohos.window.WindowStage.loadContent, 引入版本: 9, 废弃版本: Infinity, 删除版本: Infinity
+api: console.info, 对应: console.console.info, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: console.info, 对应: console.console.info, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity

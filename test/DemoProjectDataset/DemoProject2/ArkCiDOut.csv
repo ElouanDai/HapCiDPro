@@ -1,0 +1,2 @@
+ProjectName,ProjectDir,MinSupportedSdkVersion,IssueType,API,MatchKey,IntroducedVersion,DeprecatedVersion,RemovedVersion,InsteadAPI
+DemoProject2,/home/daihang/ElouanFile/Research/ArkAnything/ArkCiD/Code/ArkCiD/test/DemoProjectDataset/DemoProject2,9,D,ohos.animator.Animator.createAnimator,ohos.animator.Animator.createAnimator,6,9,Infinity,ohos.animator.create

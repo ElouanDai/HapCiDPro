@@ -1,0 +1,16 @@
+api: ohos.multimedia.mediaLibrary.mediaLibrary.getMediaLibrary, 对应: ohos.multimedia.mediaLibrary.mediaLibrary.getMediaLibrary, 引入版本: 6, 废弃版本: 9, 删除版本: 12
+api: ohos.multimedia.mediaLibrary.MediaLibrary.getFileAssets, 对应: ohos.multimedia.mediaLibrary.MediaLibrary.getFileAssets, 引入版本: 7, 废弃版本: 9, 删除版本: 12
+api: ohos.multimedia.mediaLibrary.mediaLibrary.getMediaLibrary, 对应: ohos.multimedia.mediaLibrary.mediaLibrary.getMediaLibrary, 引入版本: 6, 废弃版本: 9, 删除版本: 12
+api: ohos.multimedia.image.image.createImagePacker, 对应: ohos.multimedia.image.image.createImagePacker, 引入版本: 6, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.multimedia.image.image.createImageSource, 对应: ohos.multimedia.image.image.createImageSource, 引入版本: 6, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.multimedia.image.ImageSource.getImageInfo, 对应: ohos.multimedia.image.ImageSource.getImageInfo, 引入版本: 6, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.multimedia.image.ImageSource.createPixelMap, 对应: ohos.multimedia.image.ImageSource.createPixelMap, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.multimedia.image.ImagePacker.release, 对应: ohos.multimedia.image.ImagePacker.release, 引入版本: 6, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.multimedia.mediaLibrary.MediaLibrary.release, 对应: ohos.multimedia.mediaLibrary.MediaLibrary.release, 引入版本: 8, 废弃版本: 9, 删除版本: 12
+api: ohos.hilog.hilog.debug, 对应: ohos.hilog.hilog.debug, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.hilog.hilog.info, 对应: ohos.hilog.hilog.info, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.hilog.hilog.warn, 对应: ohos.hilog.hilog.warn, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: ohos.hilog.hilog.error, 对应: ohos.hilog.hilog.error, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: console.info, 对应: console.console.info, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: AlertDialog.show, 对应: ArkUI.AlertDialog.show, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity
+api: AlertDialog.show, 对应: ArkUI.AlertDialog.show, 引入版本: 7, 废弃版本: Infinity, 删除版本: Infinity

@@ -1,0 +1,10 @@
+ohos.promptAction.promptAction.showToast
+ohos.promptAction.promptAction.onrepeat
+entry/src/main/ets/pages/Index.ts.Index.avPlayer
+ohos.multimedia.media.AVPlayer.on
+ohos.animator.Animator.createAnimator
+ohos.animator.AnimatorResult.finish
+ohos.animator.AnimatorResult.onrepeat
+ohos.window.WindowStage.loadContent
+console.info
+console.info
